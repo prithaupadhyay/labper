@@ -13,14 +13,16 @@ gunicorn = "*"
 django-progressive-web-app = "*"
 social-auth-app-django = '*'
 python-decouple = '*'
-dj_database_url = '*'
 django-extensions = "*"
 graphviz = "*"
 "autopep8" = "*"
 django-datetime-widget = "*"
-django = "==2.1.7"
 django-storages = "*"
 "boto3" = "*"
+pylint = "*"
+pylint-django = "*"
+Django = "==2.2.10"
+dj-database-url = '*'
 
 [dev-packages]
 pylint = '*'
